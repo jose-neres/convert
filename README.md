@@ -1,21 +1,20 @@
 # 🔄 Convert
 
-Uma aplicação web moderna desenvolvida para realizar conversões de forma rápida, prática e intuitiva. O projeto foi criado com foco em uma interface limpa, responsiva e de fácil utilização, aplicando boas práticas de desenvolvimento Front-end.
+Uma aplicação web desenvolvida para realizar conversões de forma prática e intuitiva. O projeto foi criado com o objetivo de praticar conceitos de **HTML5**, **CSS3** e **JavaScript**, explorando manipulação do DOM, eventos e validação de dados por meio de uma interface simples e organizada.
 
 ## 📖 Sobre o projeto
 
-O **Convert** é uma ferramenta que permite realizar conversões de maneira simples e eficiente por meio de uma interface amigável. O projeto foi desenvolvido para praticar conceitos de HTML, CSS e JavaScript, explorando manipulação do DOM, validação de dados e interatividade.
+O **Convert** é uma aplicação que permite realizar conversões de valores de maneira rápida e eficiente. O projeto foi desenvolvido para reforçar conceitos fundamentais de desenvolvimento Front-end, integrando estrutura, estilização e interatividade.
 
-Além da funcionalidade principal, a aplicação prioriza uma boa experiência do usuário, com um layout organizado e responsivo para diferentes dispositivos.
+Durante o desenvolvimento foram aplicados conceitos de manipulação do DOM, tratamento de eventos, validação de entradas e organização do código JavaScript.
 
 ## ✨ Funcionalidades
 
-* 🔄 Conversão de valores em tempo real;
-* ⚡ Interface simples e intuitiva;
-* 📱 Layout responsivo;
-* 🎨 Design moderno e minimalista;
-* ✅ Validação de entradas do usuário;
-* 💻 Atualização dinâmica dos resultados.
+* 🔄 Conversão de valores;
+* ⚡ Atualização dinâmica dos resultados;
+* ✅ Validação das informações inseridas;
+* 🎨 Interface simples e intuitiva;
+* 🧩 Estrutura HTML semântica.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -23,7 +22,7 @@ Além da funcionalidade principal, a aplicação prioriza uma boa experiência d
 * CSS3
 * JavaScript (ES6+)
 * Flexbox
-* Google Fonts
+
 
 ## 🚀 Como executar o projeto
 
@@ -45,36 +44,30 @@ Ou visualize a aplicação online:
 
 🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/convert/)
 
-## 📱 Responsividade
-
-A aplicação foi desenvolvida para funcionar corretamente em diferentes tamanhos de tela, garantindo uma experiência consistente em smartphones, tablets e desktops.
-
 ## 🎯 Objetivos de aprendizado
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
-* Manipulação do DOM com JavaScript;
-* Eventos e interatividade;
-* Validação de formulários;
 * Estruturação semântica com HTML5;
-* Estilização com CSS3;
-* Responsividade;
+* Manipulação do DOM com JavaScript;
+* Tratamento de eventos;
+* Validação de dados;
+* Organização de estilos com CSS3;
 * Boas práticas de desenvolvimento Front-end.
 
 ## 📸 Preview
 
-<img width="1256" height="876" alt="image" src="https://github.com/user-attachments/assets/32486749-d6da-4f1f-8104-58e541cd7aa1" />
-
+<img width="1256" height="876" alt="image" src="https://github.com/user-attachments/assets/35cd8aed-2a5b-4dd8-bd6a-885e2afdaee6" />
 
 ## 💡 Aprendizados
 
-Este projeto contribuiu para o aprimoramento de habilidades em:
+Este projeto contribuiu para o desenvolvimento de habilidades em:
 
+* Manipulação de elementos da interface com JavaScript;
 * Desenvolvimento de aplicações interativas;
-* Manipulação de dados em JavaScript;
 * Organização de código Front-end;
-* Criação de interfaces responsivas;
-* Experiência do usuário (UX).
+* Validação de dados do usuário;
+* Escrita de código limpo, organizado e reutilizável.
 
 ## 👨‍💻 Autor
 
